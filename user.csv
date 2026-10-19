@@ -6,4 +6,4 @@ user_id,first_name,last_name,email,phone,city,country,age,gender
 5,Karan,Mehta,karan.mehta@example.com,9345678123,Pune,India,35,Male
 6,Sneha,Nair,sneha.nair@example.com,9567890123,Kochi,India,27,Female
 7,Arjun,Reddy,arjun.reddy@example.com,9786543210,Hyderabad,India,31,Male
-8,Neha,Gupta,neha.gupta@example.com,9012345678,Jaipur,India,26,Female
+8,indu,Gupta,neha.gupta@example.com,9012345678,Jaipur,India,26,Female
