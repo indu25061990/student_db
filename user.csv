@@ -8,4 +8,3 @@ user_id,first_name,last_name,email,phone,city,country,age,gender
 7,Arjun,Reddy,arjun.reddy@example.com,9786543210,Hyderabad,India,31,Male
 8,Neha,Gupta,neha.gupta@example.com,9012345678,Jaipur,India,26,Female
 9,Vikram,Singh,vikram.singh@example.com,9654321876,Chandigarh,India,38,Male
-10,Pooja,Malhotra,pooja.malhotra@example.com,9898989898,Bengaluru,India,24,Female
