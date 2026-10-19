@@ -1,0 +1,13 @@
+{
+    "BigQuery Schema": [
+        {
+            "name": "Index",
+            "type": "INTEGER"
+        },
+        {
+            "name": "Name",
+            "type": "STRING"
+        }
+        
+    ]
+}
